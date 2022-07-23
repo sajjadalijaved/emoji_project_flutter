@@ -1,4 +1,4 @@
-# emoji_project_painter
+## emoji_project_painter_flutter
 
 A new Flutter project.
 
